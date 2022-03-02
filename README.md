@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Wissal Daoud 
 - 👀 I’m Web developper
-- 🌱 I’m currently Developper Web  Student 
+- 🌱 I’m currently IT Engineering Student
 - 📫 daoudwissal2000@gmail.com
 - I'm from Tunisia
 
