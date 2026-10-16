@@ -7,7 +7,7 @@ Looking for a permanent role (CDI) in France or Tunisia.
 HR analytics platform (final-year project at Sopra HR Software).
 - **Stack**: FastAPI, Next.js, PostgreSQL, Keycloak (OAuth2/JWT)
 - **DevOps**: Jenkins CI/CD (9 stages), SonarQube (Quality Gate passed), Docker, Kubernetes, Prometheus/Grafana
-- **ML**: turnover prediction (XGBoost, F1 = 0.776), CV matching (79.81% accuracy), NL2SQL (RAG + T5)
+- **ML**: turnover prediction , CV matching , NL2SQL 
 - **BI**: Qlik Sense dashboards on an Oracle data warehouse
 
 ## 🧩 Other projects
