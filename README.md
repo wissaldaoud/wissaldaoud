@@ -1,7 +1,7 @@
 # Hi, I'm Wissal Daoud 👋
 
 Software engineer (ESPRIT, class of 2026): Full-Stack, DevOps/Cloud & Data/ML, with strong Qlik Sense BI experience.
-Looking for a permanent role (CDI) in France or Tunisia.
+Looking for a permanent role (CDI) in Tunisia or France.
 
 ## 🚀 Featured project: QueryRHAnalysis
 HR analytics platform (final-year project at Sopra HR Software).
